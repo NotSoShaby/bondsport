@@ -1,12 +1,14 @@
 # Refale's Interview for BondSport
 
-Prequisets: 
+# Prequisets: 
 
  - NPM  (https://www.npmjs.com/)
  - docker+docker-compose (https://docs.docker.com/compose/install/)
  - postman (optional - highly recommneded) - (https://www.postman.com/downloads/)
 
-To get up and running with the project, clone the repo then run:
+# To get up and running with the project:
+
+clone the repo then run
 
 `$ cd bondsport`
 `$ npm i`
@@ -22,5 +24,6 @@ The templates will be on the right panel and are orginized and name properly so 
 More functions are available (that don't have templates). 
 
 
-Technical Debt:
+# Technical Debt:
+
 I created a few tests but they are not running well - I ran out of time. 
